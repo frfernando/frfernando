@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hey there ✨
 
-<img src="northern-lights.gif" align="right" width="400"/>
+<img src="https://user-images.githubusercontent.com/132230061/276467917-a1cc2d3f-c6fa-4894-b8ec-37969147334e.gif" align="right" width="400"/>
 
 My name is Emanuele, but everyone calls me **Manu :)**
 \
