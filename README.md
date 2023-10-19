@@ -13,7 +13,7 @@
 My name is Fernando, my [WhatsApp](https://api.whatsapp.com/send?phone=5518996554253&text=) **:)**
 
 
-Criativo e apaixonado por tecnologia, design e interfaces.  Sempre em busca de novos desafios e oportunidades em desenvolvimento produtos digitais.
+Creative and passionate about technology, design and interfaces. Always looking for new challenges and opportunities in developing digital products.
 
 Hard Skills:
 - 🖌️ User Interface Design
