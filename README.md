@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 # Hey there ✨
 
-<img src="retro-car.gif"/>
+<img src="retro-car.gif" align="right" width="400"/>
+
+
 
 My name is Emanuele, but everyone calls me **Manu :)**
 \
@@ -40,6 +42,6 @@ My name is Emanuele, but everyone calls me **Manu :)**
 
 <div align="center">
   <a href="https://github.com/manuletsgo">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manuletsgo&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manuletsgo&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernando&show_icons=true&count_private=true&line_height=30&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fernando&layout=compact&theme=dark"/>
 </div>
