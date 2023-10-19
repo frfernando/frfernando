@@ -33,7 +33,7 @@ Hard Skills:
 ## My github stats
 
 <div align="center">
-  <a href="https://github.com/fernando">
+  <a href="https://github.com/frfernando">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frfernando&show_icons=true&count_private=true&line_height=30&"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frfernando&hide_progress=true&count_private=true&line_height=30&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frfernando&show_progress=true&count_private=true&line_height=30&"/>
 </div>
