@@ -1,19 +1,6 @@
 ### Hi there 👋
 
-<!--
-**frfernando/frfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -23,25 +10,30 @@ Here are some ideas to get you started:
 
 
 
-My name is Emanuele, but everyone calls me **Manu :)**
-\
-\
-📱 I've been working as QA Engineer for the last 4 years and currently I'm working with Mobile Automation with Appium and TS\
-📚 The last year I developed at least 10 projects (web and API) with [Playwright](https://playwright.dev/)\
-🔮 I already worked and I really like [Ruby](https://www.ruby-lang.org/pt/) language\
-🎨 I really like the design area too\
-🌵 In my free time I take care of my plants and watch series
+My name is Fernando, my [WhatsApp](https://api.whatsapp.com/send?phone=5518996554253&text=) **:)**
 
 
-#### Do you need some help with QA and Automation?
+Criativo e apaixonado por tecnologia, design e interfaces.  Sempre em busca de novos desafios e oportunidades em desenvolvimento produtos digitais.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blueviolet?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-marques/) [![Email Badge](https://img.shields.io/badge/Email-emanuele4dev@gmail.com-blueviolet)](mailto:emanuele4dev@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-@manuletsgo-blueviolet)](https://t.me/manuletsgo)
+Hard Skills:
+- 🖌️ User Interface Design
+- 🛠️ Design Tools
+- 🌐 Web Design
+- 📱 Responsive Design
+- 📊 Prototyping
+- 💻 Front-End Development
+- 📝 Usability Testing
+
+
+#### Do you need help with human machine interfaces?
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-reis-ferreira/) [![Email Badge](https://img.shields.io/badge/Email-fr.m.fernando@outlook.com-blue)](mailto:fr.m.fernando@outlook.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-@ferreirareisfernando-blue)](https://t.me/ferreirareisfernando)
 
 
 ## My github stats
 
 <div align="center">
-  <a href="https://github.com/manuletsgo">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernando&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fernando&layout=compact&theme=dark"/>
+  <a href="https://github.com/fernando">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frfernando&show_icons=true&count_private=true&line_height=30&"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frfernando&hide_progress=true"/>
 </div>
