@@ -1,26 +1,26 @@
-<div align="center">
-  <img src="retro-car.gif" width="480" alt="Cyber Neon Drive" />
-  <h1>Fernando Reis Ferreira</h1>
-  <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
-  <p>Building high-performance Digital HQs, Edge Architectures & Autonomous Web Infrastructure at <a href="https://sanbernarda.com"><strong>SanBernarda Studio</strong></a>.</p>
-
-  <p>
-    <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-    <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:fr.m.fernando@outlook.com"><img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-    <a href="https://t.me/ferreirareisfernando"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  </p>
-</div>
-
----
-
-### ⚡ Sobre Mim
-
-Engenheiro de presença digital e arquiteto de software focado em **performance extrema (< 1s)**, design neobrutalista moderno e infraestrutura serverless na borda global.
-
-- 🚀 **Especialidade:** Criação de Sedes Digitais (Digital HQs), esteiras estáticas e edge computing com **Astro**, **Cloudflare Suite** e **Tailwind CSS**.
-- 🛠️ **Automação & Dados:** Integrações de CRM, webhooks e automação de processos com **n8n** e **Python**.
-- 📐 **Design Craft:** Interfaces de alta conversão, tipografia precisa, acessibilidade **WCAG 2.2 AA** e ergonomia visual fluida.
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h1>Fernando Reis Ferreira</h1>
+      <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
+      <p>Construindo Sedes Digitais (Digital HQs), arquitetura na borda e esteiras de alta performance no <a href="https://sanbernarda.com"><strong>SanBernarda Studio</strong></a>.</p>
+      <p>
+        🚀 <b>Core:</b> Astro 7 · Cloudflare Pages/Workers · Tailwind CSS · Carregamento &lt; 1s<br />
+        ⚙️ <b>Engenharia & Dados:</b> TypeScript · Python · n8n · Automações & APIs<br />
+        📐 <b>Design Craft:</b> Neobrutalismo Moderno · Design Systems · Acessibilidade WCAG 2.2 AA
+      </p>
+      <p>
+        <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+        <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:fr.m.fernando@outlook.com"><img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+        <a href="https://t.me/ferreirareisfernando"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="retro-car.gif" width="100%" alt="Cyber Neon Drive" />
+    </td>
+  </tr>
+</table>
 
 ---
 
