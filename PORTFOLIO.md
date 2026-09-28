@@ -5,12 +5,12 @@
     <a href="./CERTIFICADOS.md"><b>📜 Ver Certificados</b></a>
   </p>
   <h1>💼 Portfólio Completo de Projetos & Repositórios</h1>
-  <p>Catálogo consolidado de soluções em produção, portais institucionais e arquiteturas web.</p>
+  <p>Catálogo consolidado de soluções em produção, portais institucionais, e-commerces e arquiteturas web desenvolvidas por <strong>Fernando Reis Ferreira</strong>.</p>
 </div>
 
 ---
 
-### 🏢 Projetos Comerciais & Clientes Ativos
+### 🏢 Projetos Comerciais & Clientes em Produção (GitHub Ativo)
 
 <table>
   <thead>
@@ -49,7 +49,7 @@
     <tr>
       <td><b>Lar dos Velhinhos</b></td>
       <td><code>Responsivo</code> <code>Acessibilidade</code> <code>PIX Dinâmico</code></td>
-      <td>Portal institucional de acolhimento à terceira idade com campanhas de doações recorrentes e prestação de contas.</td>
+      <td>Portal institucional de acolhimento à terceira idade com campanhas de doações recorrentes e módulo de prestação de contas.</td>
       <td align="center"><a href="https://github.com/frfernando/website-lar-dos-velhinhos"><b>Ver Código ↗</b></a></td>
     </tr>
     <tr>
@@ -63,10 +63,19 @@
 
 ---
 
-### 🚀 Studio & Presença Oficial
+### 🚀 Studio & Presença Digital
 
 * **[SanBernarda Studio](https://sanbernarda.com):**  
-  Sede Digital Oficial do estúdio. Arquitetura neobrutalista 2026, dual-theme dark/light, telemetria analítica com Umami, funil de prospecção e esteira automatizada de entregas WaaS.
+  Sede Digital Oficial do estúdio. Arquitetura neobrutalista 2026, dual-theme dark/light, telemetria analítica com Umami, funil de prospecção comercial e esteira automatizada de entregas WaaS (Web-as-a-Service).
+
+---
+
+### 💼 Experiência em Agência & Grandes Operações de E-commerce
+
+* 🛍️ **Operações de E-commerce & Varejo Online (Wild West & Cowboys):**  
+  Gestão técnica e de marketing de grandes plataformas de e-commerce country/varejo nacional. Otimização de taxas de conversão (CRO), gestão de catálogos com milhares de SKUs, integração com ERPs e campanhas de tráfego de alta escala.
+* 🌐 **Projetos de Agência Digital (Creative Core):**  
+  Desenvolvimento de dezenas de websites institucionais, portais corporativos, páginas de vendas e lojas virtuais personalizadas, aliando prototipagem em Figma com desenvolvimento ágil.
 
 ---
 
