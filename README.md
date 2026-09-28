@@ -1,3 +1,11 @@
+<div align="center">
+  <p>
+    <a href="./SOBRE_MIM.md"><b>👤 Sobre Mim</b></a> &nbsp;•&nbsp;
+    <a href="./PORTFOLIO.md"><b>💼 Portfólio Completo</b></a> &nbsp;•&nbsp;
+    <a href="./CERTIFICADOS.md"><b>📜 Certificados</b></a>
+  </p>
+</div>
+
 <table>
   <tr>
     <td width="58%" valign="middle">
@@ -21,6 +29,18 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🧭 Navegação Rápida do Hub
+
+<div align="center">
+  <a href="./SOBRE_MIM.md"><img src="https://img.shields.io/badge/Página-Sobre_Mim-131326?style=for-the-badge&logo=aboutdotme&logoColor=FF5F00" alt="Sobre Mim" /></a>
+  &nbsp;
+  <a href="./PORTFOLIO.md"><img src="https://img.shields.io/badge/Página-Portfólio_Completo-131326?style=for-the-badge&logo=visualstudiocode&logoColor=FF5F00" alt="Portfólio Completo" /></a>
+  &nbsp;
+  <a href="./CERTIFICADOS.md"><img src="https://img.shields.io/badge/Página-Certificados-131326?style=for-the-badge&logo=academia&logoColor=FF5F00" alt="Certificados" /></a>
+</div>
 
 ---
 
@@ -67,19 +87,11 @@
       <p><code>Modern Web</code> · <code>Mobile First</code> · <code>UX/UI</code></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤝 <a href="https://github.com/frfernando/website-lar-dos-velhinhos">Lar dos Velhinhos</a></h4>
-      <p>Portal institucional de acolhimento à terceira idade, campanhas ativas de doações e módulo de prestação de contas.</p>
-      <p><code>Responsivo</code> · <code>Acessibilidade</code> · <code>Doações PIX</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧒 <a href="https://github.com/frfernando/website-ass-casa-crianca">Casa da Criança</a></h4>
-      <p>Portal filantrópico infantil com transparência pública, captação de voluntários e eventos beneficentes.</p>
-      <p><code>Semântica Web</code> · <code>Transparência</code> · <code>Alta Fidelidade</code></p>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <a href="./PORTFOLIO.md">👉 <b>Clique aqui para ver a lista completa de todos os projetos e repositórios</b></a>
+</p>
 
 ---
 
