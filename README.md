@@ -13,7 +13,7 @@
       <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
       <p>Construindo Sedes Digitais (Digital HQs), arquitetura na borda e esteiras de alta performance no <a href="https://sanbernarda.com"><strong>SanBernarda Studio</strong></a>.</p>
       <p>
-        🚀 <b>Core:</b> Astro 7 · Cloudflare Pages/Workers · Tailwind CSS · Carregamento &lt; 1s<br />
+        🚀 <b>Core:</b> Astro 7 · Cloudflare Pages/Workers · Tailwind CSS · Performance Web<br />
         ⚙️ <b>Engenharia & Dados:</b> TypeScript · Python · n8n · Automações & APIs<br />
         📐 <b>Design Craft:</b> Neobrutalismo Moderno · Design Systems · Acessibilidade WCAG 2.2 AA
       </p>
@@ -85,6 +85,13 @@
       <h4>🥋 <a href="https://github.com/frfernando/website-dojo-ventura">Dojo Ventura</a></h4>
       <p>Plataforma para centro de treinamento de artes marciais Karate Shubu-Dô, grade de treinos e captação de novos alunos.</p>
       <p><code>Modern Web</code> · <code>Mobile First</code> · <code>UX/UI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🧒 <a href="https://github.com/frfernando/website-ass-casa-crianca">Associação Casa da Criança</a></h4>
+      <p>Portal institucional publicado no Cloudflare Pages, com navegação responsiva, área de transparência e canais de contato. Formulários preparam rascunhos de e-mail; o envio por backend ainda não está conectado.</p>
+      <p><code>HTML5</code> · <code>Cloudflare Pages</code> · <code>Acessibilidade</code> · <a href="https://casa-da-crianca-regente-feijo.pages.dev"><b>Ver site publicado ↗</b></a></p>
     </td>
   </tr>
 </table>

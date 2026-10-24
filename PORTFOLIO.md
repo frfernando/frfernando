@@ -23,7 +23,7 @@
       <h1>💼 Portfólio de Projetos & Engenharia Web</h1>
       <p><strong>Catálogo consolidado de soluções em produção, portais corporativos, catálogos industriais e Sedes Digitais desenvolvidas por Fernando Reis Ferreira.</strong></p>
       <p>
-        Projetos com foco em <b>carregamento sub-segundo (&lt; 1s)</b>, renderização estática e serverless global na borda, alta fidelidade estética e conversão comercial.
+        Projetos com foco em performance, renderização estática/serverless, alta fidelidade visual e conversão. Métricas devem ser apresentadas somente quando medidas.
       </p>
     </td>
   </tr>
@@ -121,9 +121,10 @@
         <code>HTML5 Semântico</code> <code>Transparência</code> <code>Vídeos</code>
       </td>
       <td>
-        Portal filantrópico com área completa de prestação de contas fiscal pública, captação de voluntários e eventos beneficentes comunitários.
+        Portal institucional publicado no Cloudflare Pages, com navegação responsiva, informações sobre o Serviço de Acolhimento em Família Acolhedora e área de transparência. Formulários preparam rascunhos de e-mail (sem envio por backend); documentos são referências e precisam ser solicitados à associação.
       </td>
       <td align="center">
+        <a href="https://casa-da-crianca-regente-feijo.pages.dev"><b>Site ↗</b></a><br />
         <a href="https://github.com/frfernando/website-ass-casa-crianca"><b>Repositório ↗</b></a>
       </td>
     </tr>
