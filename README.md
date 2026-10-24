@@ -66,7 +66,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🏢 <a href="https://github.com/frfernando/website-adencon">Adencon Engenharia</a></h4>
-      <p>Portal corporativo de engenharia e radiodifusão. Arquitetura serverless Astro + Cloudflare Pages com tempo de carregamento sub-segundo.</p>
+      <p>Portal corporativo de engenharia e radiodifusão, com arquitetura serverless Astro + Cloudflare Pages e foco em SEO geolocalizado.</p>
       <p><code>Astro 7</code> · <code>Cloudflare Pages</code> · <code>Tailwind</code></p>
     </td>
     <td width="50%" valign="top">
