@@ -14,11 +14,6 @@
       <p>Mais de 15 anos em design de interfaces, e-commerce, marketing digital e engenharia web. O trabalho hoje é arquitetura de alta performance com Astro e Cloudflare, design systems, automação com IA e orquestração de agentes.</p>
       <p>Ensino técnico, gestão de equipes e operação de lojas virtuais entram na mesma prática: produto digital sob medida, do desenho à publicação.</p>
       <p>
-        🚀 <b>Core:</b> Astro 7 · Cloudflare Pages/Workers · Tailwind CSS · Performance Web<br />
-        ⚙️ <b>Engenharia & Dados:</b> TypeScript · Python · n8n · Automações & APIs<br />
-        📐 <b>Design Craft:</b> Neobrutalismo Moderno · Design Systems · Acessibilidade WCAG 2.2 AA
-      </p>
-      <p>
         <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
         <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <a href="mailto:fr.m.fernando@outlook.com"><img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
