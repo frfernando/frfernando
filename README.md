@@ -10,8 +10,9 @@
   <tr>
     <td width="58%" valign="middle">
       <h1>Fernando Reis Ferreira</h1>
-      <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
-      <p>Construindo Sedes Digitais (Digital HQs), arquitetura na borda e esteiras de alta performance no <a href="https://sanbernarda.com"><strong>SanBernarda Studio</strong></a>.</p>
+      <p><strong>Arquiteto Web · Fundador da SanBernarda Studio</strong></p>
+      <p>Mais de 15 anos em design de interfaces, e-commerce, marketing digital e engenharia web. Na <a href="https://sanbernarda.com"><strong>SanBernarda Studio</strong></a>, o trabalho é arquitetura de alta performance com Astro e Cloudflare, design systems, automação com IA e orquestração de agentes.</p>
+      <p>Ensino técnico, gestão de equipes e operação de lojas virtuais entram na mesma prática: produto digital sob medida, do desenho à publicação.</p>
       <p>
         🚀 <b>Core:</b> Astro 7 · Cloudflare Pages/Workers · Tailwind CSS · Performance Web<br />
         ⚙️ <b>Engenharia & Dados:</b> TypeScript · Python · n8n · Automações & APIs<br />
