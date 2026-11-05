@@ -11,7 +11,7 @@
     <td width="58%" valign="middle">
       <h1>Fernando Reis Ferreira</h1>
       <p><strong>Arquiteto Web · Interfaces, e-commerce e engenharia</strong></p>
-      <p>Mais de 15 anos em design de interfaces, e-commerce, marketing digital e engenharia web. O trabalho hoje é arquitetura de alta performance com Astro e Cloudflare, design systems, automação com IA e orquestração de agentes.</p>
+      <p>Mais de 15 anos em design de interfaces, e-commerce, marketing digital e engenharia web. Trabalho hoje com arquiteturas de alta performance. A regra é: ser encontrado, ser citado, ser usado e gerar receita. Busca, experiência, conteúdo, design system e arquitetura seguem a regra.</p>
       <p>Ensino técnico, gestão de equipes e operação de lojas virtuais entram na mesma prática: produto digital sob medida, do desenho à publicação.</p>
       <p>
         <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
