@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-    <a href="./README.md"><img src="https://img.shields.io/badge/⬅️_Início-Dashboard-131326?style=for-the-badge&logo=github&logoColor=white" alt="Início" /></a>
+    <a href="./README.md"><img src="./assets/nav-inicio.svg" height="36" alt="Início" /></a>
     &nbsp;
-    <a href="./SOBRE_MIM.md"><img src="https://img.shields.io/badge/👤_Sobre_Mim-Biografia-131326?style=for-the-badge&logo=aboutdotme&logoColor=FF5F00" alt="Sobre Mim" /></a>
+    <a href="./SOBRE_MIM.md"><img src="./assets/nav-sobre.svg" height="36" alt="Sobre mim" /></a>
     &nbsp;
-    <a href="./CERTIFICADOS.md"><img src="https://img.shields.io/badge/📜_Certificados-Qualificações-131326?style=for-the-badge&logo=academia&logoColor=FF5F00" alt="Certificados" /></a>
+    <a href="./CERTIFICADOS.md"><img src="./assets/nav-certificados.svg" height="36" alt="Certificados" /></a>
   </p>
 </div>
 

@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-    <a href="./README.md"><img src="https://img.shields.io/badge/⬅️_Início-Dashboard-131326?style=for-the-badge&logo=github&logoColor=white" alt="Início" /></a>
+    <a href="./README.md"><img src="./assets/nav-inicio.svg" height="36" alt="Início" /></a>
     &nbsp;
-    <a href="./PORTFOLIO.md"><img src="https://img.shields.io/badge/💼_Portfólio-Repositórios-131326?style=for-the-badge&logo=visualstudiocode&logoColor=FF5F00" alt="Portfólio" /></a>
+    <a href="./PORTFOLIO.md"><img src="./assets/nav-portfolio.svg" height="36" alt="Portfólio" /></a>
     &nbsp;
-    <a href="./CERTIFICADOS.md"><img src="https://img.shields.io/badge/📜_Certificados-Qualificações-131326?style=for-the-badge&logo=academia&logoColor=FF5F00" alt="Certificados" /></a>
+    <a href="./CERTIFICADOS.md"><img src="./assets/nav-certificados.svg" height="36" alt="Certificados" /></a>
   </p>
 </div>
 
@@ -15,9 +15,9 @@
     <td width="28%" align="center" valign="middle">
       <img src="https://github.com/frfernando.png" width="150" alt="Fernando Reis" style="border-radius: 50%;" />
       <br /><br />
-      <img src="https://img.shields.io/badge/Status-Disponível-22c55e?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
-      <br />
-      <img src="https://img.shields.io/badge/Local-Regente_Feijó_/_SP-3b82f6?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
+      <img src="./assets/status-disponivel.svg" height="36" alt="Disponível" />
+      <br /><br />
+      <img src="./assets/local-regente-feijo.svg" height="36" alt="Regente Feijó / SP" />
     </td>
     <td width="72%" valign="middle">
       <h1>Fernando Reis</h1>
@@ -26,10 +26,13 @@
         Mais de uma década conectando <b>engenharia de software de alta performance</b>, <b>design de interfaces</b> e <b>visão comercial orientada a dados</b> para criar ativos digitais rápidos, resilientes e de alta conversão.
       </p>
       <p>
-        <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-        <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="mailto:fr.m.fernando@outlook.com"><img src="https://img.shields.io/badge/Email-Contato-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-        <a href="https://t.me/ferreirareisfernando"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+        <a href="https://wa.me/5518996554253"><img src="./assets/contact-whatsapp.svg" height="36" alt="WhatsApp" /></a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="./assets/contact-linkedin.svg" height="36" alt="LinkedIn" /></a>
+        &nbsp;
+        <a href="mailto:fr.m.fernando@outlook.com"><img src="./assets/contact-email.svg" height="36" alt="E-mail" /></a>
+        &nbsp;
+        <a href="https://t.me/ferreirareisfernando"><img src="./assets/contact-telegram.svg" height="36" alt="Telegram" /></a>
       </p>
     </td>
   </tr>
