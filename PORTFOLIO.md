@@ -174,11 +174,9 @@
 
 ---
 
-### 💼 Experiência em Grandes Operações de E-commerce & Agência
+### 🌐 Projetos de Agência Digital
 
-* 🛍️ **Operações de E-commerce & Varejo Online (Wild West & Cowboys):**  
-  Gestão técnica e de marketing de grandes plataformas de e-commerce country/varejo nacional. Otimização de taxas de conversão (CRO), gestão de catálogos com milhares de SKUs, integração com ERPs e campanhas de tráfego de alta escala.
-* 🌐 **Projetos de Agência Digital (Creative Core):**  
+* **Creative Core:**  
   Desenvolvimento de dezenas de websites institucionais, portais corporativos, páginas de vendas e lojas virtuais personalizadas, aliando prototipagem em Figma com desenvolvimento ágil.
 
 <br />
