@@ -23,7 +23,7 @@
       <h1>📜 Certificados, Qualificações & Formação</h1>
       <p><strong>Formação técnica continuada, especializações em design, engenharia web, marketing analítico e gestão empresarial.</strong></p>
       <p>
-        Compêndio oficial de certificados e cursos de aperfeiçoamento concluídos por <b>Fernando Reis Ferreira</b>, emitidos por instituições renomadas como <b>SOS Formação Profissional</b>, <b>Alura</b>, <b>Microlins</b> e <b>Centro Paula Souza</b>.
+        Compêndio oficial de certificados e cursos de aperfeiçoamento concluídos por <b>Fernando Reis</b>, emitidos por instituições renomadas como <b>SOS Formação Profissional</b>, <b>Alura</b>, <b>Microlins</b> e <b>Centro Paula Souza</b>.
       </p>
     </td>
   </tr>

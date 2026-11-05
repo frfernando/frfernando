@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="58%" valign="middle">
-      <h1>Fernando Reis Ferreira</h1>
+      <h1>Fernando Reis</h1>
       <p><strong>Arquiteto Web · Interfaces, e-commerce e engenharia</strong></p>
       <p>Mais de 15 anos em design de interfaces, e-commerce, marketing digital e engenharia web. Trabalho hoje com arquiteturas de alta performance. A regra é: ser encontrado, ser citado, ser usado e gerar receita. Busca, experiência, conteúdo, design system e arquitetura seguem a regra.</p>
       <p>Ensino técnico, gestão de equipes e operação de lojas virtuais entram na mesma prática: produto digital sob medida, do desenho à publicação.</p>
@@ -109,5 +109,5 @@
 <br />
 
 <div align="center">
-  <p>Construído e mantido por <strong>Fernando Reis Ferreira</strong></p>
+  <p>Construído e mantido por <strong>Fernando Reis</strong></p>
 </div>

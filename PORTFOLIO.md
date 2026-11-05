@@ -21,7 +21,7 @@
     </td>
     <td width="76%" valign="middle">
       <h1>💼 Portfólio de Projetos & Engenharia Web</h1>
-      <p><strong>Catálogo consolidado de soluções em produção, portais corporativos, catálogos industriais e Sedes Digitais desenvolvidas por Fernando Reis Ferreira.</strong></p>
+      <p><strong>Catálogo consolidado de soluções em produção, portais corporativos, catálogos industriais e Sedes Digitais desenvolvidas por Fernando Reis.</strong></p>
       <p>
         Projetos com foco em performance, renderização estática/serverless, alta fidelidade visual e conversão. Métricas devem ser apresentadas somente quando medidas.
       </p>

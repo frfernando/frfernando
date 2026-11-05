@@ -13,14 +13,14 @@
 <table>
   <tr>
     <td width="28%" align="center" valign="middle">
-      <img src="https://github.com/frfernando.png" width="150" alt="Fernando Reis Ferreira" style="border-radius: 50%;" />
+      <img src="https://github.com/frfernando.png" width="150" alt="Fernando Reis" style="border-radius: 50%;" />
       <br /><br />
       <img src="https://img.shields.io/badge/Status-Disponível-22c55e?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
       <br />
       <img src="https://img.shields.io/badge/Local-Regente_Feijó_/_SP-3b82f6?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
     </td>
     <td width="72%" valign="middle">
-      <h1>Fernando Reis Ferreira</h1>
+      <h1>Fernando Reis</h1>
       <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
       <p>
         Fundador & Arquiteto Web no <b><a href="https://sanbernarda.com">SanBernarda Studio</a></b>.<br />
