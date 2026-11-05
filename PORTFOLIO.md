@@ -11,8 +11,8 @@
 <br />
 
 <h1>Portfólio</h1>
-<p>Portais, lojas e sites de Fernando Reis. Busca, experiência, conteúdo, design system e arquitetura seguem a mesma regra: ser encontrado, ser citado, ser usado e gerar receita.</p>
-<p>Cada projeto abre o repositório. O link do site entra quando a página está no ar.</p>
+<p>Portais, lojas e sites de Fernando Reis.</p>
+<p>O domínio próprio aparece quando o site já está em produção. Enquanto a publicação é temporária, o link é o endereço da Cloudflare.</p>
 
 ---
 
@@ -39,6 +39,7 @@
         Portal corporativo para empresa de engenharia e consultoria regulatória em radiodifusão. Carregamento sub-segundo, SEO geo-localizado e zero scripts desnecessários.
       </td>
       <td align="center">
+        <a href="https://imearadiodifusao.com.br"><b>imearadiodifusao.com.br ↗</b></a><br />
         <a href="https://github.com/frfernando/website-adencon"><b>Repositório ↗</b></a>
       </td>
     </tr>
@@ -53,6 +54,7 @@
         Portal e catálogo industrial western. Formulário dinâmico serverless com despacho via Resend API na borda Cloudflare e arquitetura adaptativa.
       </td>
       <td align="center">
+        <a href="https://indianaranch.com.br"><b>indianaranch.com.br ↗</b></a><br />
         <a href="https://github.com/frfernando/website-indiana"><b>Repositório ↗</b></a>
       </td>
     </tr>
@@ -67,6 +69,7 @@
         Catálogo técnico B2B de químicos industriais com segurança Cloudflare Turnstile anti-spam, formulário assíncrono e arquitetura leve para mobile.
       </td>
       <td align="center">
+        <a href="https://vl-representacao.pages.dev"><b>vl-representacao.pages.dev ↗</b></a><br />
         <a href="https://github.com/frfernando/website-vl-representacao"><b>Repositório ↗</b></a>
       </td>
     </tr>
@@ -81,6 +84,7 @@
         Centro de treinamento de Karate Shubu-Dô. Grade de horários dinâmica, galeria interativa e funil de captação de alunos integrado ao WhatsApp.
       </td>
       <td align="center">
+        <a href="https://dojoventura.pages.dev"><b>dojoventura.pages.dev ↗</b></a><br />
         <a href="https://github.com/frfernando/website-dojo-ventura"><b>Repositório ↗</b></a>
       </td>
     </tr>
@@ -95,6 +99,7 @@
         Portal institucional de acolhimento à terceira idade com campanhas de doações recorrentes, transparência de recursos e módulo de PIX copy/paste.
       </td>
       <td align="center">
+        <a href="https://lar-dos-velhinhos.pages.dev"><b>lar-dos-velhinhos.pages.dev ↗</b></a><br />
         <a href="https://github.com/frfernando/website-lar-dos-velhinhos"><b>Repositório ↗</b></a>
       </td>
     </tr>
@@ -109,7 +114,7 @@
         Portal institucional publicado no Cloudflare Pages, com navegação responsiva, informações sobre o Serviço de Acolhimento em Família Acolhedora e área de transparência. Formulários preparam rascunhos de e-mail (sem envio por backend); documentos são referências e precisam ser solicitados à associação.
       </td>
       <td align="center">
-        <a href="https://casa-da-crianca-regente-feijo.pages.dev"><b>Site ↗</b></a><br />
+        <a href="https://casa-da-crianca-regente-feijo.pages.dev"><b>casa-da-crianca-regente-feijo.pages.dev ↗</b></a><br />
         <a href="https://github.com/frfernando/website-ass-casa-crianca"><b>Repositório ↗</b></a>
       </td>
     </tr>
@@ -124,7 +129,7 @@
         Portal institucional da Labore Recursos Humanos e Engenharia, em Presidente Prudente. Páginas de serviços, cadastro de currículo e publicação no Cloudflare Pages.
       </td>
       <td align="center">
-        <a href="https://labore-rh.pages.dev"><b>Site ↗</b></a><br />
+        <a href="https://labore-rh.pages.dev"><b>labore-rh.pages.dev ↗</b></a><br />
         <a href="https://github.com/frfernando/website-labore-rh"><b>Repositório ↗</b></a>
       </td>
     </tr>
@@ -153,6 +158,7 @@
         Protótipo de portal de catálogo de vídeos embed, com páginas de categoria e estrutura pensada para busca orgânica e busca generativa.
       </td>
       <td align="center">
+        <a href="https://addora.tv"><b>addora.tv ↗</b></a><br />
         <a href="https://github.com/frfernando/website-addora-com"><b>Repositório ↗</b></a>
       </td>
     </tr>
