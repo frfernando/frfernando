@@ -37,7 +37,7 @@
 
 > [!TIP]
 > **A Filosofia das Sedes Digitais (Digital HQs):**  
-> Construo presenças digitais que operam na borda global com **Astro** e **Cloudflare**, garantindo carregamento sub-segundo (&lt; 1s), zero scripts desnecessários, imunidade a quedas e automação integrada ao CRM e aos canais de relacionamento.
+> Construo presenças digitais que operam na borda global com **Astro** e **Cloudflare**, garantindo carregamento sub-segundo (&lt; 1s), zero scripts desnecessários, imunidade a quedas e automação integrada a sistemas, APIs e canais de relacionamento.
 
 ---
 
