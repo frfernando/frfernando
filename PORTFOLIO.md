@@ -177,7 +177,7 @@
 ### 💼 Experiência em Grandes Operações de E-commerce & Agência
 
 * 🛍️ **Operações de E-commerce & Varejo Online:**  
-  Gestão técnica e de marketing de grandes plataformas de e-commerce country/varejo nacional. Otimização de taxas de conversão (CRO), gestão de catálogos com milhares de SKUs, integração com ERPs e campanhas de tráfego de alta escala.
+  Gestão técnica e de marketing de grandes plataformas de e-commerce e varejo nacional. Otimização de taxas de conversão (CRO), gestão de catálogos com milhares de SKUs, integração com ERPs e campanhas de tráfego de alta escala.
 * 🌐 **Projetos de Agência Digital (Creative Core):**  
   Desenvolvimento de dezenas de websites institucionais, portais corporativos, páginas de vendas e lojas virtuais personalizadas, aliando prototipagem em Figma com desenvolvimento ágil.
 
