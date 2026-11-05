@@ -21,10 +21,14 @@
     </td>
     <td width="72%" valign="middle">
       <h1>Fernando Reis</h1>
-      <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
+      <p><strong>Arquiteto Web · Interfaces, e-commerce e engenharia</strong></p>
       <p>
-        Fundador & Arquiteto Web no <b><a href="https://sanbernarda.com">SanBernarda Studio</a></b>.<br />
-        Mais de uma década conectando <b>engenharia de software de alta performance</b>, <b>design de interfaces neobrutalistas</b> e <b>visão comercial orientada a dados</b> para criar ativos digitais rápidos, resilientes e de alta conversão.
+        Mais de 15 anos em design de interfaces, e-commerce, marketing digital e engenharia web.<br />
+        Trabalho hoje com arquiteturas de alta performance. A regra é: <b>ser encontrado, ser citado, ser usado e gerar receita</b>.<br />
+        Busca, experiência, conteúdo, design system e arquitetura seguem a regra.
+      </p>
+      <p>
+        Ensino técnico, gestão de equipes e operação de lojas virtuais entram na mesma prática: produto digital sob medida, do desenho à publicação.
       </p>
       <p>
         <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -39,8 +43,8 @@
 ---
 
 > [!TIP]
-> **A Filosofia das Sedes Digitais (Digital HQs):**  
-> Um website empresarial moderno não pode ser um folheto estático pesado. Construo presenças digitais que operam na borda global com **Astro** e **Cloudflare**, garantindo carregamento sub-segundo (&lt; 1s), zero scripts desnecessários, imunidade a quedas e automação direta com CRM e WhatsApp.
+> **A regra**  
+> Ser encontrado, ser citado, ser usado e gerar receita. Busca, experiência, conteúdo, design system e arquitetura seguem essa regra, em arquiteturas de alta performance com Astro e Cloudflare.
 
 ---
 
@@ -59,11 +63,11 @@
     <tr>
       <td><b>2024 — Presente</b></td>
       <td>
-        <b>Fundador & Arquiteto Web</b><br />
-        <a href="https://sanbernarda.com">SanBernarda Studio</a>
+        <b>Arquiteto Web</b><br />
+        Produtos digitais sob medida
       </td>
       <td>
-        Concepção e entrega de Sedes Digitais empresariais. Arquitetura Server-First, automações completas de leads via webhooks/CRM e esteira industrial de alta velocidade.
+        Arquitetura de alta performance para busca, experiência, conteúdo e publicação. Cada camada segue a mesma regra: ser encontrado, ser citado, ser usado e gerar receita.
       </td>
       <td><code>Astro 7</code> <code>Cloudflare Edge</code> <code>Tailwind</code> <code>n8n</code> <code>Python</code></td>
     </tr>
@@ -159,7 +163,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
-      <p><small>Server-First, Zero-JS por padrão, CSS modular, tipografia fluida com <code>clamp()</code> e foco no Core Web Vitals 100/100.</small></p>
+      <p><small>Server-first, JavaScript só onde a interface precisa, CSS modular e tipografia fluida com <code>clamp()</code>.</small></p>
     </td>
     <td width="50%" valign="top">
       <h4>☁️ Borda, Nuvem & Infraestrutura</h4>
@@ -170,7 +174,7 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       </p>
-      <p><small>Rede global com +300 PoPs, proteção contra DDoS, SSL Full Strict e containers serverless ultrarrápidos.</small></p>
+      <p><small>Publicação em Cloudflare Pages e Workers, com HTTPS e proteção de formulários.</small></p>
     </td>
   </tr>
   <tr>
@@ -192,7 +196,7 @@
         <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
         <img src="https://img.shields.io/badge/WCAG_2.2_AA-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="WCAG" />
       </p>
-      <p><small>Design neobrutalista moderno, wireframing, design systems escaláveis e acessibilidade digital rigorosa.</small></p>
+      <p><small>Interface, design system, wireframe e acessibilidade no critério WCAG 2.2 AA.</small></p>
     </td>
   </tr>
 </table>
