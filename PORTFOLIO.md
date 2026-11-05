@@ -11,7 +11,7 @@
 <br />
 
 <h1>Portfólio</h1>
-<p>Portais, lojas e sites no ar.</p>
+<p>Portais, lojas e sites no ar, com <b>alta performance</b>, <b>design de interfaces</b> e <b>visão comercial orientada a dados</b>, para criar ativos digitais rápidos, resilientes e de alta conversão.</p>
 <p>O link é o domínio próprio quando a produção já responde. Enquanto o domínio ainda não entrou, o endereço é o da Cloudflare. O repositório fica ao lado.</p>
 
 ---
