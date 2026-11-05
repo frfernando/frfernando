@@ -28,7 +28,7 @@
       <p>
         <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
         <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="mailto:fr.m.fernando@outlook.com"><img src="https://img.shields.io/badge/Email-Contato-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+        <a href="mailto:f86.reis@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
         <a href="https://t.me/ferreirareisfernando"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
       </p>
     </td>
