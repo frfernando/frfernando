@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-    <a href="./README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-inicio.svg" /><img src="./assets/accent/light/nav-inicio.svg" height="34" alt="Início" /></picture></a>
+    <a href="./README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/nav-inicio.svg" /><img src="./assets/rb/light/nav-inicio.svg" height="34" alt="Início" /></picture></a>
     &nbsp;
-    <a href="./PORTFOLIO.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-portfolio.svg" /><img src="./assets/accent/light/nav-portfolio.svg" height="34" alt="Portfólio" /></picture></a>
+    <a href="./PORTFOLIO.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/nav-portfolio.svg" /><img src="./assets/rb/light/nav-portfolio.svg" height="34" alt="Portfólio" /></picture></a>
     &nbsp;
-    <a href="./CERTIFICADOS.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-certificados.svg" /><img src="./assets/accent/light/nav-certificados.svg" height="34" alt="Certificados" /></picture></a>
+    <a href="./CERTIFICADOS.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/nav-certificados.svg" /><img src="./assets/rb/light/nav-certificados.svg" height="34" alt="Certificados" /></picture></a>
   </p>
 </div>
 
@@ -15,9 +15,9 @@
     <td width="28%" align="center" valign="middle">
       <img src="https://github.com/frfernando.png" width="150" alt="Fernando Reis" style="border-radius: 50%;" />
       <br /><br />
-      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/status-disponivel.svg" /><img src="./assets/accent/light/status-disponivel.svg" height="34" alt="Disponível" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/status-disponivel.svg" /><img src="./assets/rb/light/status-disponivel.svg" height="34" alt="Disponível" /></picture>
       <br /><br />
-      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/local-regente-feijo.svg" /><img src="./assets/accent/light/local-regente-feijo.svg" height="34" alt="Regente Feijó / SP" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/local-regente-feijo.svg" /><img src="./assets/rb/light/local-regente-feijo.svg" height="34" alt="Regente Feijó / SP" /></picture>
     </td>
     <td width="72%" valign="middle">
       <h1>Fernando Reis</h1>
@@ -26,13 +26,13 @@
         Mais de uma década conectando <b>engenharia de software de alta performance</b>, <b>design de interfaces</b> e <b>visão comercial orientada a dados</b> para criar ativos digitais rápidos, resilientes e de alta conversão.
       </p>
       <p>
-        <a href="https://wa.me/5518996554253"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/contact-whatsapp.svg" /><img src="./assets/accent/light/contact-whatsapp.svg" height="34" alt="WhatsApp" /></picture></a>
+        <a href="https://wa.me/5518996554253"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/contact-whatsapp.svg" /><img src="./assets/rb/light/contact-whatsapp.svg" height="34" alt="WhatsApp" /></picture></a>
         &nbsp;
-        <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/contact-linkedin.svg" /><img src="./assets/accent/light/contact-linkedin.svg" height="34" alt="LinkedIn" /></picture></a>
+        <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/contact-linkedin.svg" /><img src="./assets/rb/light/contact-linkedin.svg" height="34" alt="LinkedIn" /></picture></a>
         &nbsp;
-        <a href="mailto:fr.m.fernando@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/contact-email.svg" /><img src="./assets/accent/light/contact-email.svg" height="34" alt="E-mail" /></picture></a>
+        <a href="mailto:fr.m.fernando@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/contact-email.svg" /><img src="./assets/rb/light/contact-email.svg" height="34" alt="E-mail" /></picture></a>
         &nbsp;
-        <a href="https://t.me/ferreirareisfernando"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/contact-telegram.svg" /><img src="./assets/accent/light/contact-telegram.svg" height="34" alt="Telegram" /></picture></a>
+        <a href="https://t.me/ferreirareisfernando"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/contact-telegram.svg" /><img src="./assets/rb/light/contact-telegram.svg" height="34" alt="Telegram" /></picture></a>
       </p>
     </td>
   </tr>
