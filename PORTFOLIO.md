@@ -10,9 +10,9 @@
 
 <br />
 
-<h1>Portfólio de Projetos & Engenharia Web</h1>
-<p><strong>Catálogo de portais, catálogos e sites desenvolvidos por Fernando Reis.</strong></p>
-<p>Cada projeto abaixo leva ao repositório, e ao site quando ele está publicado. Métricas só entram quando foram medidas.</p>
+<h1>Portfólio</h1>
+<p>Portais, lojas e sites de Fernando Reis. Busca, experiência, conteúdo, design system e arquitetura seguem a mesma regra: ser encontrado, ser citado, ser usado e gerar receita.</p>
+<p>Cada projeto abre o repositório. O link do site entra quando a página está no ar.</p>
 
 ---
 
