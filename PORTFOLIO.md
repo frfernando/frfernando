@@ -181,18 +181,6 @@
 * 🌐 **Projetos de Agência Digital (Creative Core):**  
   Desenvolvimento de dezenas de websites institucionais, portais corporativos, páginas de vendas e lojas virtuais personalizadas, aliando prototipagem em Figma com desenvolvimento ágil.
 
----
-
-### 🛠️ Projetos de Base & Estudos de Desenvolvimento
-
-* 💈 **[Barber-Store](https://github.com/frfernando/Barber-Store):** Landing page estilizada para barbearia com foco em HTML semântico, pré-processador SASS e responsividade.
-* 📝 **[To-Do List](https://github.com/frfernando/to-do-list):** Aplicação interativa de lista de tarefas para manipulação pura de DOM e JavaScript moderno.
-* 📚 **[Learning Resources](https://github.com/frfernando/Learning-Resources):** Repositório de anotações, referências técnicas, tutoriais e curadoria de aprendizado.
-* 💼 **[Portfolio Base](https://github.com/frfernando/Portfolio):** Estrutura inicial de portfólio pessoal e showcase.
-* 📄 **[Resume](https://github.com/frfernando/Resume):** Currículo com experiência, habilidades e atualizações de trajetória.
-* 🎓 **[Certificates](https://github.com/frfernando/Certificates):** Acervo dos certificados de desenvolvimento web, design e formação.
-* 🐱 **[MiYau](https://github.com/frfernando/website-miyau):** Imagens de referência visual. O repositório ainda não tem um site.
-
 <br />
 
 <div align="center">
