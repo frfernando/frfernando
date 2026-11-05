@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-    <a href="./README.md"><img src="https://img.shields.io/badge/⬅️_Início-Dashboard-131326?style=for-the-badge&logo=github&logoColor=white" alt="Início" /></a>
+    <a href="./README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-inicio.svg" /><img src="./assets/accent/light/nav-inicio.svg" height="34" alt="Início" /></picture></a>
     &nbsp;
-    <a href="./SOBRE_MIM.md"><img src="https://img.shields.io/badge/👤_Sobre_Mim-Biografia-131326?style=for-the-badge&logo=aboutdotme&logoColor=FF5F00" alt="Sobre Mim" /></a>
+    <a href="./SOBRE_MIM.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-sobre.svg" /><img src="./assets/accent/light/nav-sobre.svg" height="34" alt="Sobre mim" /></picture></a>
     &nbsp;
-    <a href="./CERTIFICADOS.md"><img src="https://img.shields.io/badge/📜_Certificados-Qualificações-131326?style=for-the-badge&logo=academia&logoColor=FF5F00" alt="Certificados" /></a>
+    <a href="./CERTIFICADOS.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-certificados.svg" /><img src="./assets/accent/light/nav-certificados.svg" height="34" alt="Certificados" /></picture></a>
   </p>
 </div>
 

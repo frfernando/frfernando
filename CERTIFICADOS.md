@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-    <a href="./README.md"><img src="https://img.shields.io/badge/⬅️_Início-Dashboard-131326?style=for-the-badge&logo=github&logoColor=white" alt="Início" /></a>
+    <a href="./README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-inicio.svg" /><img src="./assets/accent/light/nav-inicio.svg" height="34" alt="Início" /></picture></a>
     &nbsp;
-    <a href="./SOBRE_MIM.md"><img src="https://img.shields.io/badge/👤_Sobre_Mim-Biografia-131326?style=for-the-badge&logo=aboutdotme&logoColor=FF5F00" alt="Sobre Mim" /></a>
+    <a href="./SOBRE_MIM.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-sobre.svg" /><img src="./assets/accent/light/nav-sobre.svg" height="34" alt="Sobre mim" /></picture></a>
     &nbsp;
-    <a href="./PORTFOLIO.md"><img src="https://img.shields.io/badge/💼_Portfólio-Repositórios-131326?style=for-the-badge&logo=visualstudiocode&logoColor=FF5F00" alt="Portfólio" /></a>
+    <a href="./PORTFOLIO.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/accent/dark/nav-portfolio.svg" /><img src="./assets/accent/light/nav-portfolio.svg" height="34" alt="Portfólio" /></picture></a>
   </p>
 </div>
 
