@@ -14,13 +14,12 @@
      y="0.5"
      width="111"
      height="33"
-     rx="8"
-     fill="none"
+          fill="none"
      stroke="#3d444d"
      id="rect1" />
   <path
-     d="M 3.00 1.76 A 8 8 0 0 0 0 8 L 0 26.00 A 8 8 0 0 0 3.00 32.24 Z"
-     fill="#d4b483"
+     d="M 0 0 H 3 V 34 H 0 Z"
+     fill="#00F0FF"
      id="path1" />
   <g
      transform="translate(13 10)"
