@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-    <a href="./README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/nav-inicio.svg" /><img src="./assets/rb/light/nav-inicio.svg" height="34" alt="Início" /></picture></a>
+    <a href="./README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/mark/dark/nav-inicio.svg" /><img src="./assets/mark/light/nav-inicio.svg" height="34" alt="Início" /></picture></a>
     &nbsp;
-    <a href="./SOBRE_MIM.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/nav-sobre.svg" /><img src="./assets/rb/light/nav-sobre.svg" height="34" alt="Sobre mim" /></picture></a>
+    <a href="./SOBRE_MIM.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/mark/dark/nav-sobre.svg" /><img src="./assets/mark/light/nav-sobre.svg" height="34" alt="Sobre mim" /></picture></a>
     &nbsp;
-    <a href="./CERTIFICADOS.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rb/dark/nav-certificados.svg" /><img src="./assets/rb/light/nav-certificados.svg" height="34" alt="Certificados" /></picture></a>
+    <a href="./CERTIFICADOS.md"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/mark/dark/nav-certificados.svg" /><img src="./assets/mark/light/nav-certificados.svg" height="34" alt="Certificados" /></picture></a>
   </p>
 </div>
 
