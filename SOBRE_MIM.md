@@ -59,8 +59,7 @@
     <tr>
       <td><b>2024 — Presente</b></td>
       <td>
-        <b>Fundador & Arquiteto Web</b><br />
-        <a href="https://sanbernarda.com">SanBernarda Studio</a>
+        <a href="https://sanbernarda.com"><b>Fundador & Arquiteto Web</b> · SanBernarda Studio</a>
       </td>
       <td>
         Concepção e entrega de Sedes Digitais empresariais. Arquitetura Server-First, automações completas de leads via webhooks/CRM e esteira industrial de alta velocidade.
@@ -70,8 +69,7 @@
     <tr>
       <td><b>2020 — 2023</b></td>
       <td>
-        <b>Web Designer & UI/UX</b><br />
-        <a href="https://creativecore.com.br">Creative Core Agência Digital</a>
+        <a href="https://creativecore.com.br"><b>Web Designer & UI/UX</b> · Creative Core Agência Digital</a>
       </td>
       <td>
         Desenvolvimento de dezenas de portais institucionais e lojas virtuais de alta escala. Criação de layouts autorais no Figma, otimização de velocidade e integrações de API.
@@ -81,8 +79,7 @@
     <tr>
       <td><b>2018 — 2022</b></td>
       <td>
-        <b>Gerente de E-commerce & CRO</b><br />
-        <a href="https://www.instagram.com/wild_west_loja_country/">Wild West Loja Country</a>
+        <a href="https://www.instagram.com/wild_west_loja_country/"><b>Gerente de E-commerce & CRO</b> · Wild West Loja Country</a>
       </td>
       <td>
         Liderança de operações digitais de varejo online. Otimização de taxas de conversão (CRO), gestão de equipes multidisciplinares e integração completa entre ERPs e canais de venda.
@@ -92,8 +89,7 @@
     <tr>
       <td><b>2012 — 2017</b></td>
       <td>
-        <b>Analista de Marketing Digital & SEO</b><br />
-        <a href="https://www.cowboys.com.br">Cowboys Varejo Online</a>
+        <a href="https://www.cowboys.com.br"><b>Analista de Marketing Digital & SEO</b> · Cowboys Varejo Online</a>
       </td>
       <td>
         Planejamento e execução de campanhas de mídia de performance, posicionamento orgânico em SEO/SEM, desenvolvimento de landing pages e análise contínua de ROI.
@@ -103,8 +99,7 @@
     <tr>
       <td><b>2010 — 2011</b></td>
       <td>
-        <b>Coordenador Pedagógico</b><br />
-        <a href="https://www.linkedin.com/company/grupoeurodata">Eurodata Brasil</a>
+        <a href="https://www.linkedin.com/company/grupoeurodata"><b>Coordenador Pedagógico</b> · Eurodata Brasil</a>
       </td>
       <td>
         Coordenação da equipe de instrutores de computação e tecnologia, criação de matrizes curriculares e formação de alunos para o mercado de trabalho.
