@@ -39,7 +39,7 @@
 
 > [!TIP]
 > **A Filosofia das Sedes Digitais (Digital HQs):**  
-> Um website empresarial moderno não pode ser um folheto estático pesado. Construo presenças digitais que operam na borda global com **Astro** e **Cloudflare**, garantindo carregamento sub-segundo (&lt; 1s), zero scripts desnecessários, imunidade a quedas e automação direta com CRM e WhatsApp.
+> Construo presenças digitais que operam na borda global com **Astro** e **Cloudflare**, garantindo carregamento sub-segundo (&lt; 1s), zero scripts desnecessários, imunidade a quedas e automação direta com CRM e WhatsApp.
 
 ---
 
