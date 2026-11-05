@@ -24,6 +24,9 @@
         Mais de uma década conectando <b>engenharia de software de alta performance</b>, <b>design de interfaces</b> e <b>visão comercial orientada a dados</b> para criar ativos digitais rápidos, resilientes e de alta conversão.
       </p>
       <p>
+        A regra é: ser encontrado, ser citado, ser usado e gerar receita. Busca, experiência, conteúdo, design system e arquitetura seguem a regra.
+      </p>
+      <p>
         <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
         <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <a href="mailto:f86.reis@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
