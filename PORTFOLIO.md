@@ -10,24 +10,9 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="24%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Portfólio-Ativo_2026-FF5F00?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio Ativo" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/Projetos-9_Repositórios-22c55e?style=flat-square&logo=git&logoColor=white" alt="9 Repos" />
-      <br />
-      <img src="https://img.shields.io/badge/Arquitetura-Edge_&_Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    </td>
-    <td width="76%" valign="middle">
-      <h1>💼 Portfólio de Projetos & Engenharia Web</h1>
-      <p><strong>Catálogo consolidado de soluções em produção, portais corporativos, catálogos industriais e Sedes Digitais desenvolvidas por Fernando Reis.</strong></p>
-      <p>
-        Projetos com foco em performance, renderização estática/serverless, alta fidelidade visual e conversão. Métricas devem ser apresentadas somente quando medidas.
-      </p>
-    </td>
-  </tr>
-</table>
+<h1>Portfólio de Projetos & Engenharia Web</h1>
+<p><strong>Catálogo de portais, catálogos e sites desenvolvidos por Fernando Reis.</strong></p>
+<p>Cada projeto abaixo leva ao repositório, e ao site quando ele está publicado. Métricas só entram quando foram medidas.</p>
 
 ---
 
