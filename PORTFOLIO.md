@@ -11,8 +11,8 @@
 <br />
 
 <h1>Portfólio</h1>
-<p>Portais, lojas e sites de Fernando Reis.</p>
-<p>O domínio próprio aparece quando o site já está em produção. Enquanto a publicação é temporária, o link é o endereço da Cloudflare.</p>
+<p>Portais, lojas e sites no ar.</p>
+<p>O link é o domínio próprio quando a produção já responde. Enquanto o domínio ainda não entrou, o endereço é o da Cloudflare. O repositório fica ao lado.</p>
 
 ---
 
