@@ -14,13 +14,10 @@
       <p>Mais de 15 anos em design de interfaces, e-commerce, marketing digital e engenharia web. Trabalho hoje com arquiteturas de alta performance. A regra é: ser encontrado, ser citado, ser usado e gerar receita. Busca, experiência, conteúdo, design system e arquitetura seguem a regra.</p>
       <p>Ensino técnico, gestão de equipes e operação de lojas virtuais entram na mesma prática: produto digital sob medida, do desenho à publicação.</p>
       <p>
-        <a href="https://wa.me/5518996554253"><img src="./assets/contact-whatsapp.svg" height="36" alt="WhatsApp" /></a>
-        &nbsp;
-        <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="./assets/contact-linkedin.svg" height="36" alt="LinkedIn" /></a>
-        &nbsp;
-        <a href="mailto:fr.m.fernando@outlook.com"><img src="./assets/contact-email.svg" height="36" alt="E-mail" /></a>
-        &nbsp;
-        <a href="https://t.me/ferreirareisfernando"><img src="./assets/contact-telegram.svg" height="36" alt="Telegram" /></a>
+        <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+        <a href="https://www.linkedin.com/in/fernando-reis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:fr.m.fernando@outlook.com"><img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+        <a href="https://t.me/ferreirareisfernando"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
@@ -34,11 +31,11 @@
 ### 🧭 Navegação Rápida do Hub
 
 <div align="center">
-  <a href="./SOBRE_MIM.md"><img src="./assets/nav-sobre.svg" height="36" alt="Sobre mim" /></a>
+  <a href="./SOBRE_MIM.md"><img src="https://img.shields.io/badge/Página-Sobre_Mim-131326?style=for-the-badge&logo=aboutdotme&logoColor=FF5F00" alt="Sobre Mim" /></a>
   &nbsp;
-  <a href="./PORTFOLIO.md"><img src="./assets/nav-portfolio.svg" height="36" alt="Portfólio" /></a>
+  <a href="./PORTFOLIO.md"><img src="https://img.shields.io/badge/Página-Portfólio_Completo-131326?style=for-the-badge&logo=visualstudiocode&logoColor=FF5F00" alt="Portfólio Completo" /></a>
   &nbsp;
-  <a href="./CERTIFICADOS.md"><img src="./assets/nav-certificados.svg" height="36" alt="Certificados" /></a>
+  <a href="./CERTIFICADOS.md"><img src="https://img.shields.io/badge/Página-Certificados-131326?style=for-the-badge&logo=academia&logoColor=FF5F00" alt="Certificados" /></a>
 </div>
 
 ---
