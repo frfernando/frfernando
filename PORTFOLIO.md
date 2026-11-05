@@ -15,7 +15,7 @@
     <td width="24%" align="center" valign="middle">
       <img src="https://img.shields.io/badge/Portfólio-Ativo_2026-FF5F00?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio Ativo" />
       <br /><br />
-      <img src="https://img.shields.io/badge/Projetos-6_Repositórios-22c55e?style=flat-square&logo=git&logoColor=white" alt="6 Repos" />
+      <img src="https://img.shields.io/badge/Projetos-9_Repositórios-22c55e?style=flat-square&logo=git&logoColor=white" alt="9 Repos" />
       <br />
       <img src="https://img.shields.io/badge/Arquitetura-Edge_&_Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
     </td>
@@ -128,6 +128,49 @@
         <a href="https://github.com/frfernando/website-ass-casa-crianca"><b>Repositório ↗</b></a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>👥 Labore RH e Engenharia</b>
+      </td>
+      <td>
+        <code>Astro</code> <code>Tailwind</code> <code>Cloudflare Pages</code> <code>Turnstile</code>
+      </td>
+      <td>
+        Portal institucional da Labore Recursos Humanos e Engenharia, em Presidente Prudente. Páginas de serviços, cadastro de currículo e publicação no Cloudflare Pages.
+      </td>
+      <td align="center">
+        <a href="https://labore-rh.pages.dev"><b>Site ↗</b></a><br />
+        <a href="https://github.com/frfernando/website-labore-rh"><b>Repositório ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📰 No Fato</b>
+      </td>
+      <td>
+        <code>HTML</code> <code>CSS</code> <code>Protótipo</code>
+      </td>
+      <td>
+        Protótipo de portal de notícias e utilidade pública, em visual lo-fi. O repositório tem a home, a página de matéria e a página de serviços.
+      </td>
+      <td align="center">
+        <a href="https://github.com/frfernando/website-no-fato"><b>Repositório ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🎬 Addora</b>
+      </td>
+      <td>
+        <code>HTML5</code> <code>Tailwind</code> <code>SEO</code> <code>GEO</code>
+      </td>
+      <td>
+        Protótipo de portal de catálogo de vídeos embed, com páginas de categoria e estrutura pensada para busca orgânica e busca generativa.
+      </td>
+      <td align="center">
+        <a href="https://github.com/frfernando/website-addora-com"><b>Repositório ↗</b></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -155,6 +198,9 @@
 * 📝 **[To-Do List](https://github.com/frfernando/to-do-list):** Aplicação interativa de lista de tarefas para manipulação pura de DOM e JavaScript moderno.
 * 📚 **[Learning Resources](https://github.com/frfernando/Learning-Resources):** Repositório de anotações, referências técnicas, tutoriais e curadoria de aprendizado.
 * 💼 **[Portfolio Base](https://github.com/frfernando/Portfolio):** Estrutura inicial de portfólio pessoal e showcase.
+* 📄 **[Resume](https://github.com/frfernando/Resume):** Currículo com experiência, habilidades e atualizações de trajetória.
+* 🎓 **[Certificates](https://github.com/frfernando/Certificates):** Acervo dos certificados de desenvolvimento web, design e formação.
+* 🐱 **[MiYau](https://github.com/frfernando/website-miyau):** Imagens de referência visual. O repositório ainda não tem um site.
 
 <br />
 
