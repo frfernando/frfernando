@@ -21,9 +21,9 @@
     </td>
     <td width="72%" valign="middle">
       <h1>Fernando Reis</h1>
-      <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
+      <p><strong>Arquiteto Web · Interfaces, e-commerce e engenharia</strong></p>
       <p>
-        Mais de uma década conectando <b>engenharia de software de alta performance</b>, <b>design de interfaces neobrutalistas</b> e <b>visão comercial orientada a dados</b> para criar ativos digitais rápidos, resilientes e de alta conversão.
+        Mais de uma década conectando <b>engenharia de software de alta performance</b>, <b>design de interfaces</b> e <b>visão comercial orientada a dados</b> para criar ativos digitais rápidos, resilientes e de alta conversão.
       </p>
       <p>
         <a href="https://wa.me/5518996554253"><img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
