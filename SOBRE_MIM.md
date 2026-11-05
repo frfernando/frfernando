@@ -23,7 +23,6 @@
       <h1>Fernando Reis</h1>
       <p><strong>Web Architect · Digital HQ Engineer · UI/UX Craftsman</strong></p>
       <p>
-        Fundador & Arquiteto Web no <b><a href="https://sanbernarda.com">SanBernarda Studio</a></b>.<br />
         Mais de uma década conectando <b>engenharia de software de alta performance</b>, <b>design de interfaces neobrutalistas</b> e <b>visão comercial orientada a dados</b> para criar ativos digitais rápidos, resilientes e de alta conversão.
       </p>
       <p>
