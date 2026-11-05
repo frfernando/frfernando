@@ -101,9 +101,16 @@
 ### 📊 Telemetria & Atividade GitHub
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=frfernando&cc=131326&tc=FF5F00&ic=FF5F00&bc=242442" alt="Fernando's GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=frfernando&theme=tokyonight&background=131326&border=242442&stroke=FF5F00&ring=FF5F00&fire=FF5F00&currStreakNum=FFFFFF" alt="Fernando's Streak Stats" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=frfernando&cc=0d1117&tc=c9d1d9&ic=e10600&bc=21262d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=frfernando&cc=ffffff&tc=1f2328&ic=e10600&bc=d0d7de" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=frfernando&cc=0d1117&tc=c9d1d9&ic=e10600&bc=21262d" alt="Estatísticas do GitHub de Fernando Reis" height="148" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=frfernando&background=0d1117&border=21262d&stroke=30363d&ring=8b949e&fire=e10600&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=frfernando&background=ffffff&border=d0d7de&stroke=d0d7de&ring=656d76&fire=e10600&currStreakNum=1f2328&currStreakLabel=656d76&sideNums=1f2328&sideLabels=656d76&dates=656d76" />
+    <img src="https://streak-stats.demolab.com/?user=frfernando&background=0d1117&border=21262d&stroke=30363d&ring=8b949e&fire=e10600&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="Sequência de contribuições de Fernando Reis" height="148" />
+  </picture>
 </div>
 
 <br />
