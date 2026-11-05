@@ -10,24 +10,9 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="24%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Formação-689h+_Certificadas-FF5F00?style=for-the-badge&logo=academia&logoColor=white" alt="Carga Horária" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/Status-Registros_Oficiais-22c55e?style=flat-square&logo=checkmarx&logoColor=white" alt="Verificado" />
-      <br />
-      <img src="https://img.shields.io/badge/Escopo-Tech_&_Design-3b82f6?style=flat-square&logo=codeforces&logoColor=white" alt="Tech e Design" />
-    </td>
-    <td width="76%" valign="middle">
-      <h1>📜 Certificados, Qualificações & Formação</h1>
-      <p><strong>Formação técnica continuada, especializações em design, engenharia web, marketing analítico e gestão empresarial.</strong></p>
-      <p>
-        Compêndio oficial de certificados e cursos de aperfeiçoamento concluídos por <b>Fernando Reis</b>, emitidos por instituições renomadas como <b>SOS Formação Profissional</b>, <b>Alura</b>, <b>Microlins</b> e <b>Centro Paula Souza</b>.
-      </p>
-    </td>
-  </tr>
-</table>
+<h1>Certificados e qualificações</h1>
+<p>Formação em <b>design de interfaces</b>, <b>engenharia web</b>, <b>marketing</b> e <b>gestão</b>.</p>
+<p>SOS Formação Profissional, Alura, Microlins e Centro Paula Souza. A carga de cada curso está na tabela. Os comprovantes ficam no <a href="https://github.com/frfernando/Certificates"><b>repositório</b></a>.</p>
 
 ---
 
