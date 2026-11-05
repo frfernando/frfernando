@@ -31,11 +31,11 @@
 ### 🧭 Navegação Rápida do Hub
 
 <div align="center">
-  <a href="./SOBRE_MIM.md"><img src="https://img.shields.io/badge/Página-Sobre_Mim-131326?style=for-the-badge&logo=aboutdotme&logoColor=FF5F00" alt="Sobre Mim" /></a>
-  &nbsp;
-  <a href="./PORTFOLIO.md"><img src="https://img.shields.io/badge/Página-Portfólio_Completo-131326?style=for-the-badge&logo=visualstudiocode&logoColor=FF5F00" alt="Portfólio Completo" /></a>
-  &nbsp;
-  <a href="./CERTIFICADOS.md"><img src="https://img.shields.io/badge/Página-Certificados-131326?style=for-the-badge&logo=academia&logoColor=FF5F00" alt="Certificados" /></a>
+  <p>
+    <a href="./SOBRE_MIM.md"><b>👤 Sobre Mim</b></a> &nbsp;•&nbsp;
+    <a href="./PORTFOLIO.md"><b>💼 Portfólio</b></a> &nbsp;•&nbsp;
+    <a href="./CERTIFICADOS.md"><b>📜 Certificados</b></a>
+  </p>
 </div>
 
 ---

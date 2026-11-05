@@ -1,10 +1,8 @@
 <div align="center">
   <p>
-    <a href="./README.md"><img src="https://img.shields.io/badge/⬅️_Início-Dashboard-131326?style=for-the-badge&logo=github&logoColor=white" alt="Início" /></a>
-    &nbsp;
-    <a href="./PORTFOLIO.md"><img src="https://img.shields.io/badge/💼_Portfólio-Repositórios-131326?style=for-the-badge&logo=visualstudiocode&logoColor=FF5F00" alt="Portfólio" /></a>
-    &nbsp;
-    <a href="./CERTIFICADOS.md"><img src="https://img.shields.io/badge/📜_Certificados-Qualificações-131326?style=for-the-badge&logo=academia&logoColor=FF5F00" alt="Certificados" /></a>
+    <a href="./README.md"><b>⬅️ Início</b></a> &nbsp;•&nbsp;
+    <a href="./PORTFOLIO.md"><b>💼 Portfólio</b></a> &nbsp;•&nbsp;
+    <a href="./CERTIFICADOS.md"><b>📜 Certificados</b></a>
   </p>
 </div>
 
