@@ -10,14 +10,14 @@
 
 <table>
   <tr>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://github.com/frfernando.png" width="150" alt="Fernando Reis" style="border-radius: 50%;" />
+    <td width="36%" align="center" valign="middle">
+      <img src="https://github.com/frfernando.png" width="260" alt="Fernando Reis" style="border-radius: 50%;" />
       <br /><br />
       <img src="https://img.shields.io/badge/Status-Disponível-22c55e?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
       <br />
       <img src="https://img.shields.io/badge/Local-Regente_Feijó_/_SP-3b82f6?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
     </td>
-    <td width="72%" valign="middle">
+    <td width="64%" valign="middle">
       <h1>Fernando Reis</h1>
       <p><strong>Arquiteto Web · Interfaces, e-commerce e engenharia</strong></p>
       <p>
@@ -59,7 +59,7 @@
     <tr>
       <td><b>2024 — Presente</b></td>
       <td>
-        <a href="https://sanbernarda.com"><b>Fundador & Arquiteto Web</b> · SanBernarda Studio</a>
+        <a href="https://sanbernarda.com"><b>Arquiteto Web</b> · SanBernarda Studio</a>
       </td>
       <td>
         Concepção e entrega de Sedes Digitais empresariais. Arquitetura Server-First, automações completas de leads via webhooks/CRM e esteira industrial de alta velocidade.
@@ -69,7 +69,7 @@
     <tr>
       <td><b>2020 — 2023</b></td>
       <td>
-        <a href="https://creativecore.com.br"><b>Web Designer & UI/UX</b> · Creative Core Agência Digital</a>
+        <a href="https://creativecore.com.br"><b>Designer da web</b> · Creative Core</a>
       </td>
       <td>
         Desenvolvimento de dezenas de portais institucionais e lojas virtuais de alta escala. Criação de layouts autorais no Figma, otimização de velocidade e integrações de API.
@@ -77,9 +77,9 @@
       <td><code>WordPress</code> <code>WooCommerce</code> <code>Figma</code> <code>PHP</code> <code>APIs REST</code></td>
     </tr>
     <tr>
-      <td><b>2018 — 2022</b></td>
+      <td><b>2019 — 2023</b></td>
       <td>
-        <a href="https://www.instagram.com/wild_west_loja_country/"><b>Gerente de E-commerce & CRO</b> · Wild West Loja Country</a>
+        <a href="https://www.instagram.com/wild_west_loja_country/"><b>Analista de e-commerce</b> · Wild West</a>
       </td>
       <td>
         Liderança de operações digitais de varejo online. Otimização de taxas de conversão (CRO), gestão de equipes multidisciplinares e integração completa entre ERPs e canais de venda.
@@ -87,9 +87,9 @@
       <td><code>E-commerce</code> <code>CRO</code> <code>Google Ads</code> <code>ERPs/CRMs</code> <code>Tráfego</code></td>
     </tr>
     <tr>
-      <td><b>2012 — 2017</b></td>
+      <td><b>2013 — 2017</b></td>
       <td>
-        <a href="https://www.cowboys.com.br"><b>Analista de Marketing Digital & SEO</b> · Cowboys Varejo Online</a>
+        <a href="https://www.cowboys.com.br"><b>Analista de sistemas</b> · Cowboys</a>
       </td>
       <td>
         Planejamento e execução de campanhas de mídia de performance, posicionamento orgânico em SEO/SEM, desenvolvimento de landing pages e análise contínua de ROI.
